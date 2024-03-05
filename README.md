@@ -18,6 +18,5 @@ git clone https://github.com/Nicklemy/YTvideoDownloader
 
 2) Open your browser.
 
-3) Copy the path of your index.py file and paste it into the browser's address bar.
+3) And paste this link `http://localhost/index.py` into the browser's address bar.
 
-4) And Enjoy it.
